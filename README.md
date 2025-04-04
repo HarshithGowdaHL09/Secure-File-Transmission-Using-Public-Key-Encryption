@@ -103,7 +103,7 @@ The Java Programming Language
 	The java launcher tool then runs your application with an instance of the Java Virtual 
 	Machine.
  
- 	<img width="461" alt="{D30867CC-5E8F-42DC-ADC2-D5E84ED93125}" src="https://github.com/user-attachments/assets/a1bf15b0-757e-4a98-8eef-0e98d25611fe" />
+<img width="461" alt="{D30867CC-5E8F-42DC-ADC2-D5E84ED93125}" src="https://github.com/user-attachments/assets/a1bf15b0-757e-4a98-8eef-0e98d25611fe" />
 
   	Because the Java VM is available on many different operating systems, the same .class files 
 	are capable of running on Microsoft Windows, the Solaris Operating System (Solaris OS), 
@@ -112,7 +112,8 @@ The Java Programming Language
 	tasks such as finding performance bottlenecks and recompiling (to native code) frequently used 
 	sections of code. 
 
- 	<img width="278" alt="{DE490697-30F6-4454-B528-4D64DC32D91B}" src="https://github.com/user-attachments/assets/630f05a2-f15f-4575-b554-292aad599abe" />
+ <img width="278" alt="{DE490697-30F6-4454-B528-4D64DC32D91B}" src="https://github.com/user-attachments/assets/630f05a2-f15f-4575-b554-292aad599abe" />
+ 
   Data Flow Diagram 
 
   <img width="258" alt="{4274A5BB-CFE4-4771-B82A-7FA3689DB2E7}" src="https://github.com/user-attachments/assets/c23e6c19-7c51-4d19-b728-b1c22e148471" />
